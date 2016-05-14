@@ -1,0 +1,19 @@
+{
+  "name": "mini-mulla",
+  "version": "1.0.0",
+  "description": "Contact the mpesa api easily :-p",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co-views": "^2.1.0",
+    "koa": "^1.2.0",
+    "koa-router": "^5.4.0",
+    "koa-static": "^2.0.0",
+    "xml2js": "^0.4.16"
+  }
+}
